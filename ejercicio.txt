@@ -1,0 +1,22 @@
+🔍 Ejercicio de Programación - "FizzBuzz Desafío"
+Instrucciones:
+Un profesor de matemáticas está enseñando a sus estudiantes sobre los múltiplos de ciertos números y quiere hacer un pequeño juego para que practiquen. Él les da las siguientes reglas:
+
+Si un número es múltiplo de 3, los estudiantes deben decir "Fizz".
+Si un número es múltiplo de 5, los estudiantes deben decir "Buzz".
+Si un número es múltiplo de ambos (3 y 5), deben decir "FizzBuzz".
+Si no es múltiplo de ninguno, simplemente deben decir el número.
+Tu misión es escribir un programa que ayude a los estudiantes a jugar este juego de forma automática, mostrando los valores correctos para los números del 1 al 100.
+
+Ejemplo de entrada y salida esperada:
+
+Copiar
+Editar
+1  →  1
+2  →  2
+3  →  Fizz
+4  →  4
+5  →  Buzz
+6  →  Fizz
+10 →  Buzz
+15 →  FizzBuzz
