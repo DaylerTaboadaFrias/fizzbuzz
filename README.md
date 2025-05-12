@@ -1,8 +1,8 @@
 # RESOLUCION DEL PROBLEMA FIZZBUZZ
 
-**Analiza, este ejercicio lo colocaron para una entrevista de programación para nivel junior y también la colocaron para nivel intermedio.
+**Analiza, este ejercicio lo colocaron para una entrevista de programación para nivel junior y también la colocaron para nivel intermedio.**
 
-cual crees que pueda hacer la diferencia?**
+**cual crees que pueda hacer la diferencia?**
 
 Respuesta: Creo que la diferencia puede ser en que tan escalable y limpio codifica el programador, en relacion al nivel que se espera.
 
