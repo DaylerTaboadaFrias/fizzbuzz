@@ -1,9 +1,8 @@
 package com.example.fizzbuzz;
 
 public class Main {
-    static RespuestaUno respuestaUno;
+    static SerieFizzBuzz serieFizzBuzz = new SerieFizzBuzz();;
     public static void main(String[] args) {
-        respuestaUno = new RespuestaUno();
-        respuestaUno.respuestaUno();
+        serieFizzBuzz.imprimir();
     }
 }
