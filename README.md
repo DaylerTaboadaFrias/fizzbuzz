@@ -1,5 +1,11 @@
 # RESOLUCION DEL PROBLEMA FIZZBUZZ
 
+**Analiza, este ejercicio lo colocaron para una entrevista de programación para nivel junior y también la colocaron para nivel intermedio.
+
+cual crees que pueda hacer la diferencia?**
+
+Respuesta: Creo que la diferencia puede ser en que tan escalable y limpio codifica el programador, en relacion al nivel que se espera.
+
 **Primer paso : Creacion del proyecto**
 
 He creado un proyecto en blanco de java con mavel y VSCode ,creo una carpeta y luego le doy new project java maven ,y luego seleccionó una version en blanco inicial.
