@@ -4,7 +4,7 @@
 
 **cual crees que pueda hacer la diferencia?**
 
-Respuesta: Creo que la diferencia puede ser en que tan escalable y limpio codifica el programador, en relacion al nivel que se espera.
+Respuesta: Creo que la diferencia puede ser en la interpretacion del problema y que tan escalable y limpio codifica el programador, en relacion al nivel que se espera.
 
 **Primer paso : Creacion del proyecto**
 
