@@ -39,7 +39,7 @@ Ju        while (true) {
 
 ```
 
-**Segundo paso : Creacion clase RespuestaUno.java**
+**Segundo paso : Creacion clase SerieFizzBuzz.java**
 
 He creado una clase y un metodo para resolver el ejercicio y he procedido a resolverlo :
 
@@ -60,4 +60,4 @@ Necesite un for que cicle hasta 100 y unos 3 ifs para que verifiquen que un nume
 
 **Tercer paso : utilizar clase SerieFizzBuzz.java**
 
-Por ultimo he creado una instancia en Main.java de la claseSerieFizzBuzz.java y utilice el metodo ,al ejecutar el programa en main se muestran los resultado
+Por ultimo he creado una instancia en Main.java de la clase SerieFizzBuzz.java y utilice el metodo ,al ejecutar el programa en main se muestran los resultado
