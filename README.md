@@ -4,11 +4,40 @@
 
 **cual crees que pueda hacer la diferencia?**
 
-Respuesta: Creo que la diferencia puede ser en que tan escalable y limpio codifica el programador, en relacion al nivel que se espera.
+Respuesta: Creo que la diferencia puede ser en la interpretacion del problema y que tan escalable y limpio codifica el programador, en relacion al nivel que se espera.
 
 **Primer paso : Creacion del proyecto**
 
 He creado un proyecto en blanco de java con mavel y VSCode ,creo una carpeta y luego le doy new project java maven ,y luego seleccionó una version en blanco inicial.
+
+creo una flujo de consola infinito que va preguntar al estudiante si desea comenzar el juego o salir ,si juega tiene que introducir un numero y darle enter ,y el programa va mostrar el valor correcto.
+
+```java
+Ju        while (true) {
+            System.out.println("Bienvenido al juego FizzBuzz");
+            System.out.println("1. Iniciar juego");
+            System.out.println("2. Salir del juego");
+            Scanner scanner = new Scanner(System.in);
+            int opcion = scanner.nextInt();
+            if (opcion == 1) {
+                System.out.println("Juego FizzBuzz");
+                System.out.print("Ingrese un numero de 1 al 100: ");
+                int numero = scanner.nextInt();
+                serieFizzBuzz.setNumero(numero);
+                String resultado = serieFizzBuzz.verificarMultiplo();
+                System.out.print("La salida es : ");
+                System.out.println(resultado);
+  
+            } else if (opcion == 2) {
+                System.out.println("Juego terminado");
+                break;
+            } else {
+                System.out.println("Opcion invalida");
+            }
+  
+        }
+
+```
 
 **Segundo paso : Creacion clase RespuestaUno.java**
 
@@ -29,6 +58,6 @@ Necesite un for que cicle hasta 100 y unos 3 ifs para que verifiquen que un nume
 
 ```
 
-**Tercer paso : utilizar clase RespuestaUno.java**
+**Tercer paso : utilizar clase SerieFizzBuzz.java**
 
-Por ultimo he creado una instancia en Main.java de la calse RespuetaUno.java y utilice el metodo ,al ejecutar el programa en main se muestran los resultado
+Por ultimo he creado una instancia en Main.java de la claseSerieFizzBuzz.java y utilice el metodo ,al ejecutar el programa en main se muestran los resultado
