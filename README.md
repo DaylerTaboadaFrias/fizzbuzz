@@ -10,7 +10,7 @@ Respuesta: Creo que la diferencia puede ser en la interpretacion del problema y 
 
 He creado un proyecto en blanco de java con mavel y VSCode ,creo una carpeta y luego le doy new project java maven ,y luego seleccionó una version en blanco inicial.
 
-**Segundo paso : Creacion clase RespuestaUno.java**
+**Segundo paso : Creacion clase SerieFizzBuzz.java**
 
 He creado una clase y un metodo para resolver el ejercicio y he procedido a resolverlo :
 
@@ -29,6 +29,6 @@ Necesite un for que cicle hasta 100 y unos 3 ifs para que verifiquen que un nume
 
 ```
 
-**Tercer paso : utilizar clase RespuestaUno.java**
+**Tercer paso : utilizar clase SerieFizzBuzz.java**
 
 Por ultimo he creado una instancia en Main.java de la calse RespuetaUno.java y utilice el metodo ,al ejecutar el programa en main se muestran los resultado
