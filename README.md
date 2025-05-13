@@ -46,14 +46,14 @@ He creado una clase y un metodo para resolver el ejercicio y he procedido a reso
 Necesite un for que cicle hasta 100 y unos 3 ifs para que verifiquen que un numero es multiplo de 3 ,de 5 y de 3 y 5 para esto utilice el operador % que hace una division y saca el residuo en entero entonces cuando hago esto verifico si es 0 entonces es multiplo de 3 o 5
 
 ```java
-        if (i % 3 == 0 && i % 5 == 0) {
-            System.out.println("FizzBuzz");
-        } else if (i % 3 == 0) {
-            System.out.println("Fizz");
-        } else if (i % 5 == 0) {
-            System.out.println("Buzz");
+        if (this.numero % 3 == 0 && this.numero % 5 == 0) {
+            return "FizzBuzz";
+        } else if (this.numero % 3 == 0) {
+            return "Fizz";
+        } else if (this.numero % 5 == 0) {
+            return "Buzz";
         } else {
-            System.out.println(i);
+            return String.valueOf(this.numero);
         }
 
 ```
